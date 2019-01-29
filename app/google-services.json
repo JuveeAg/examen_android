@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "672342517750",
+    "firebase_url": "https://nearbyapp-3533e.firebaseio.com",
+    "project_id": "nearbyapp",
+    "storage_bucket": "nearbyapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672342517750:android:238066695f4c44d2",
+        "android_client_info": {
+          "package_name": "maps.prueba.juvee.nearbyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672342517750-o8h33882k07hf4h5ttmf6vl5auqjnkqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "maps.prueba.juvee.nearbyapp",
+            "certificate_hash": "0ac18f3e87cf937b5d83a2ad9126169916d66691"
+          }
+        },
+        {
+          "client_id": "672342517750-fcehhpsnnoqbn7c9l4sfoj4sa5r419qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWxX8l_AHHzYZ8VwxjXhQyoTrpH-4onUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672342517750-fcehhpsnnoqbn7c9l4sfoj4sa5r419qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
