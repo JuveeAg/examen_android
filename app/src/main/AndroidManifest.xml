@@ -20,7 +20,7 @@
 
         <meta-data
                 android:name="com.google.android.geo.API_KEY"
-                android:value="AIzaSyC_9nBaZJA5O65Sp9ZWt8PGRiTZ2pPYpI0"/>
+                android:value=""/>
 
         <activity android:name=".DetalleNearby">
         </activity>
@@ -32,8 +32,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".MapasActivity">
-        </activity>
-        <activity android:name=".GaleriaActividad">
         </activity>
     </application>
 
