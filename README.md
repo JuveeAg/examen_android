@@ -10,7 +10,7 @@
 
 <img src="https://github.com/JuveeAg/examen_android/blob/master/images/5.png" data-canonical-src="https://github.com/JuveeAg/examen_android/blob/master/images/5.png" width="200" height="400" />
 
-<img src="https://github.com/JuveeAg/examen_android/blob/master/images/6.png" data-canonical-src="https://github.com/JuveeAg/examen_android/blob/master/images/6.png" width="200" height="400" />
+<img src="https://github.com/JuveeAg/examen_android/blob/master/images/6.png" data-canonical-src="https://github.com/JuveeAg/examen_android/blob/master/images/6.png" width="200" height="200" />
 
 <img src="https://github.com/JuveeAg/examen_android/blob/master/images/7.png" data-canonical-src="https://github.com/JuveeAg/examen_android/blob/master/images/7.png" width="200" height="400" />
 
